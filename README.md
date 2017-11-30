@@ -1,2 +1,2 @@
 # archive-webar-demo
-Archive Piano WebAR Demo (University of Florida)
+Archive WebAR Demo with AR.js and A-Frame (University of Florida)
